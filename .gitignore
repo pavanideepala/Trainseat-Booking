@@ -1,0 +1,33 @@
+# Java and Maven specific files
+*.class
+*.jar
+*.war
+*.ear
+target/
+dependency-reduced-pom.xml
+
+# Eclipse specific files
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+*.iws
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Maven Wrapper files
+.mvn/
+mvnw
+mvnw.cmd
+
+# Ignore compiled output files
+out/
+bin/
