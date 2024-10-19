@@ -16,7 +16,7 @@ This project is a Java-based application managed using Maven. It is designed to 
 
 ### Steps:
 1. Clone the repository:
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/pavanideepala/Trainseat-Booking.git
    cd your-repo
 2. Build the project using Maven:
    mvn clean install
